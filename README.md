@@ -1,2 +1,2 @@
 # Phone-Stand
-Designing using SolidWorks and 3D printing a phone stand
+Designing using SolidWorks and 3D printing a phone stand. This design focuses heavily on practicality and usability, with a constraint of using less than 2 cubic inches of material. As seen in the model and pictures, this stand is capable of supporting phones and tablets at 2 angles. Specifically, when the stand is used on a table, the 65 degrees stand can be used while the user is sitting and the 43 degrees stand can be used while the user is standing.  
